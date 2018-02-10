@@ -47,6 +47,7 @@
     "nopt": "^3.0.1",
     "opn": "^4.0.0",
     "p-throttler": "0.1.1",
+    "promise-retry": "^1.1.1",
     "promptly": "0.2.0",
     "q": "^1.1.2",
     "request": "2.67.0",
